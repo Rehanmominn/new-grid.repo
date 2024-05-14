@@ -1,0 +1,51 @@
+.main{
+    display: grid;
+    background-color: bisque;
+    border: 2px solid black;
+    height: 300px;
+    align-items: center;
+    
+    
+    /* grid-template-columns: auto auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px; */
+    /* justify-content: space-around; */
+
+}
+.grid-item{
+    background-color: lightblue;
+    border: 1px solid black;
+
+}
+.grid-item1{
+    background-color: lightblue;
+    border: 1px solid black;
+}
+.grid-item2{
+    background-color: lightblue;
+    border: 1px solid black;
+}
+.grid-item3{
+    background-color: lightblue;
+    border: 1px solid black;
+}
+.divison{
+    background-color: bisque;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    align-items: start;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+
+
+
+
+}
+.one{
+    background-color: aqua;
+    border: 1px solid black;
+    width: 100px;
+    
+
+}
